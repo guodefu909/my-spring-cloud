@@ -9,6 +9,7 @@
 
     <!--项目模块-->
     <modules>
+        <module>config</module>
         <module>eureka</module>
         <module>gateway</module>
     </modules>

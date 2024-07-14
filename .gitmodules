@@ -4,3 +4,6 @@
 [submodule "eureka"]
 	path = eureka
 	url = git@github.com:guodefu909/eureka.git
+[submodule "config"]
+	path = config
+	url = git@github.com:guodefu909/config.git
