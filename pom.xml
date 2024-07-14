@@ -9,7 +9,7 @@
 
     <!--项目模块-->
     <modules>
-        <!--<module>nacos</module>-->
+        <module>eureka</module>
         <module>gateway</module>
     </modules>
 
